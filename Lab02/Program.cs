@@ -1,4 +1,4 @@
-﻿/*
+﻿ /*
  * Student ID : 1690701071
  * Name       : Peraphat Sungwan
  * Section    : 129A
@@ -86,7 +86,7 @@ namespace Lab02
             double playercritMultiplier4 = 2;
             bool isPlayer4 = true;
 
-            // Print Command
+            // Player status print command naja eiei
 
             Console.WriteLine("===== PLAYER PARTY STATUS: INITIAL =====");
             Console.WriteLine("Party Member 1");
