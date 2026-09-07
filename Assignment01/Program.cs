@@ -1,4 +1,12 @@
-﻿namespace Assignment01
+﻿/*
+ * Student ID : 1690701071
+ * Name       : Peraphat Sungwan
+ * Section    : 129A
+ * No.        : 37
+ * Course     : GI113 Computer Programming (GI)
+ */
+
+namespace Assignment01
 {
     internal class Program
     {
