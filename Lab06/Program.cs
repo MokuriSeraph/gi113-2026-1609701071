@@ -90,7 +90,6 @@ namespace Lab06
             Console.WriteLine("========== Dungeon of Happiness and Fullfillness ==========");
 
             // Player configuration
-            var attackRng = new Random();
             var humanRace = "Human";
             var elfRace = "Elf";
             var angelRace = "Angel";
